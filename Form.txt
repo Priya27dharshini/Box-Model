@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> Form Elements </title>
+</head>
+<body>
+<form>
+<input type ="text" id="fullname">
+</form>
+</body>
+</html>
